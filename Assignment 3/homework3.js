@@ -36,10 +36,8 @@ function without_exercise3(numList) {
     if (numList[i] % 2 === 0) {
       return true;
     }
-    else {
-      return false;
-    }
   }
+  return false;
 }
 
 function without_exercise4(numList) {
