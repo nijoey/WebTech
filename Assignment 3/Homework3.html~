@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Homework 3</title>
+</head>
+<body>
+<h1>Homework 3</h1>
+<label>Exercise 1 with underscore and without underscore</label>
+<div id="div1"></div>
+<div id="div11"></div>
+<br>
+<label>Exercise 2 with underscore and without underscore</label>
+<div id="div2"></div>
+<div id="div12"></div>
+<br>
+<label>Exercise 3 with underscore and without underscore</label>
+<div id="div3"></div>
+<div id="div13"></div>
+<br>
+<label>Exercise 4 with underscore and without underscore</label>
+<div id="div4"></div>
+<div id="div14"></div>
+<br>
+<label>Array Contains with underscore and without underscore</label>
+<div id="div5"></div>
+<div id="div15"></div>
+<br>
+<label>Array Contains Two with underscore and without underscore</label>
+<div id="div6"></div>
+<div id="div16"></div>
+<br>
+<label>Array Contains Three with underscore and without underscore</label>
+<div id="div7"></div>
+<div id="div17"></div>
+<br>
+<label>Array Contains N times underscore and without underscore</label>
+<div id="div8"></div>
+<div id="div18"></div>
+<script type="text/javascript" src="underscore.js"></script>
+<script type="text/javascript" src="homework3.js"></script>
+</body>
+</html>
